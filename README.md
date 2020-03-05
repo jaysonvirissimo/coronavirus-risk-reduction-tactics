@@ -9,7 +9,7 @@ It [seems to spread](https://www.cdc.gov/coronavirus/2019-ncov/about/transmissio
 ## Get enough sleep
 Getting good sleep [seems to](https://www.webmd.com/sleep-disorders/features/immune-system-lack-of-sleep#1) reduce the likelihood of catching the cold. By analogy, it may also do so for the coronavirus.
 ## Wrap commonly touched items (door handles, lightswitches, etc...) with copper tape
-Copper seems to have [antimicrobial efficacy](https://en.wikipedia.org/wiki/Antimicrobial_properties_of_copper#Antimicrobial_efficacy_of_copper_alloy_touch_surfaces), so covering surfaces with it may kill help sanitize infected surfaces.
+Copper seems to have [antimicrobial efficacy](https://en.wikipedia.org/wiki/Antimicrobial_properties_of_copper#Antimicrobial_efficacy_of_copper_alloy_touch_surfaces), so covering surfaces with it may help sanitize infected surfaces.
 ## Eliminate non-essential airtravel
 ## Obtain a one month food supply
 This greatly reduces your need to interact with those outside of your household should you need to be under quarantine for an extended period of time like happened in Wuhan.
