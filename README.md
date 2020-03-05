@@ -8,6 +8,7 @@
 It [seems to spread](https://www.cdc.gov/coronavirus/2019-ncov/about/transmission.html) person-to-person and from contact with infected surfaces or objects. Gyms seem to put you are risk for both transmission modes.
 ## Get enough sleep
 ## Wrap commonly touched items (door handles, lightswitches, etc...) with copper tape
+Copper seems to have [antimicrobial efficacy](https://en.wikipedia.org/wiki/Antimicrobial_properties_of_copper#Antimicrobial_efficacy_of_copper_alloy_touch_surfaces), so covering surfaces with it may kill help sanitize infected surfaces.
 ## Eliminate non-essential airtravel
 ## Obtain a one month food supply
 ## Work from home instead of going into the office
