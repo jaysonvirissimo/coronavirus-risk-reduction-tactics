@@ -7,6 +7,7 @@ Supplementing with vitamin D seems to significantly lower your risk of all kinds
 ## Exercise at home, not at the gym
 It [seems to spread](https://www.cdc.gov/coronavirus/2019-ncov/about/transmission.html) person-to-person and from contact with infected surfaces or objects. Gyms seem to put you are risk for both transmission modes.
 ## Get enough sleep
+Getting good sleep [seems to](https://www.webmd.com/sleep-disorders/features/immune-system-lack-of-sleep#1) reduce the likelihood of catching the cold. By analogy, it may also do so for the coronavirus.
 ## Wrap commonly touched items (door handles, lightswitches, etc...) with copper tape
 Copper seems to have [antimicrobial efficacy](https://en.wikipedia.org/wiki/Antimicrobial_properties_of_copper#Antimicrobial_efficacy_of_copper_alloy_touch_surfaces), so covering surfaces with it may kill help sanitize infected surfaces.
 ## Eliminate non-essential airtravel
