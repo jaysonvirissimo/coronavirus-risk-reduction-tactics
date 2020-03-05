@@ -3,7 +3,7 @@
 
 ## Wash your hands frequently
 ## Take vitamin D supplements
-
+Supplementing with vitamin D seems to significantly lower your risk of all kinds of respiratory infection. See [here](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5692194/), [here](https://www.liebertpub.com/doi/abs/10.1089/ped.2017.0750?journalCode=ped), and [here](https://www.who.int/elena/titles/vitamind_pneumonia_children/en/) for corroborating evidence.
 ## Exercise at home, not at the gym
 It [seems to spread](https://www.cdc.gov/coronavirus/2019-ncov/about/transmission.html) person-to-person and from contact with infected surfaces or objects. Gyms seem to put you are risk for both transmission modes.
 ## Get enough sleep
