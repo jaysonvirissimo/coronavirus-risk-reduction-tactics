@@ -14,6 +14,7 @@ Copper seems to have [antimicrobial efficacy](https://en.wikipedia.org/wiki/Anti
 ## Obtain a one month food supply
 This greatly reduces your need to interact with those outside of your household should you need to be under quarantine for an extended period of time like happened in Wuhan.
 ## Work from home instead of going into the office
+This should cut down on person-to-person transmission as well as expose you to fewer potentially infected surfaces. Of course, this assumes you are regularly disinfecting your home work area and the others in your household are also following good hygiene.
 ## Batch trips to the store
 Visiting the store fewer times means encountering fewer people means less chances to get the virus person-to-person.
 ## Wear nitrile gloves
