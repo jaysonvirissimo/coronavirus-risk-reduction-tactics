@@ -13,6 +13,7 @@ Getting good sleep [seems to](https://www.webmd.com/sleep-disorders/features/imm
 ## Wrap commonly touched items (door handles, lightswitches, etc...) with copper tape
 Copper seems to have [antimicrobial efficacy](https://en.wikipedia.org/wiki/Antimicrobial_properties_of_copper#Antimicrobial_efficacy_of_copper_alloy_touch_surfaces), so covering surfaces with it may help sanitize infected surfaces.
 ## Eliminate non-essential airtravel
+Airports (and airplanes) put you in close proximity to large number of people and put you in contact with potentially infected surfaces. If you must fly, consider wiping down surfaces (like your seat, the tray table, etc...) with lysol wipes and bringing hand sanitizer in a bottle that is [100ml (3.4 ounces) or less](https://www.tsa.gov/travel/security-screening/liquids-rule) that will be allowed past the security checkout.
 ## Obtain a one month food supply
 This greatly reduces your need to interact with those outside of your household should you need to be under quarantine for an extended period of time like happened in Wuhan.
 ## Work from home instead of going into the office
