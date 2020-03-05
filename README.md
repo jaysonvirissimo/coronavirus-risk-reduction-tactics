@@ -2,6 +2,8 @@
 *Warning: The maintainer has absolutely no expertise concerning COVID-19, coronaviruses, or viruses in general. He's just a guy who knows git who thought making a list for his friends and family might might be useful. Some of these tactics were originally inspired by [this LessWrong thread](https://www.lesswrong.com/posts/LwcKYR8bykM6vDHyo/coronavirus-justified-practical-advice-thread).*
 
 ## Wash your hands frequently
+[According to the CDC](https://www.cdc.gov/coronavirus/2019-ncov/about/prevention-treatment.html):
+> Wash your hands often with soap and water for at least 20 seconds, especially after going to the bathroom; before eating; and after blowing your nose, coughing, or sneezing. If soap and water are not readily available, use an alcohol-based hand sanitizer with at least 60% alcohol. Always wash hands with soap and water if hands are visibly dirty.
 ## Take vitamin D supplements
 Supplementing with vitamin D seems to significantly lower your risk of all kinds of respiratory infection. See [here](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5692194/), [here](https://www.liebertpub.com/doi/abs/10.1089/ped.2017.0750?journalCode=ped), and [here](https://www.who.int/elena/titles/vitamind_pneumonia_children/en/) for corroborating evidence. It doesn't seem to help though, if you are already infected.
 ## Exercise at home, not at the gym
