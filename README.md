@@ -4,6 +4,7 @@
 ## Wash your hands frequently
 ## Take vitamin D supplements
 ## Exercise at home, not at the gym
+It [seems to spread](https://www.cdc.gov/coronavirus/2019-ncov/about/transmission.html) person-to-person and from contact with infected surfaces or objects. Gyms seem to put you are risk for both transmission modes.
 ## Get enough sleep
 ## Wrap commonly touched items (door handles, lightswitches, etc...) with copper tape
 ## Eliminate non-essential airtravel
