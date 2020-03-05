@@ -12,3 +12,5 @@
 ## Batch trips to the store
 ## Wear nitrile gloves
 ## Avoid touching your face
+[According to the CDC](https://www.cdc.gov/coronavirus/2019-ncov/about/prevention-treatment.html):
+> The best way to prevent illness is to avoid being exposed to this virus. However, as a reminder, CDC always recommends everyday preventive actions to help prevent the spread of respiratory diseases, including: Avoid touching your eyes, nose, and mouth...
