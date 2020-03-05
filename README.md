@@ -3,6 +3,7 @@
 
 ## Wash your hands frequently
 ## Take vitamin D supplements
+
 ## Exercise at home, not at the gym
 It [seems to spread](https://www.cdc.gov/coronavirus/2019-ncov/about/transmission.html) person-to-person and from contact with infected surfaces or objects. Gyms seem to put you are risk for both transmission modes.
 ## Get enough sleep
@@ -11,6 +12,7 @@ It [seems to spread](https://www.cdc.gov/coronavirus/2019-ncov/about/transmissio
 ## Obtain a one month food supply
 ## Work from home instead of going into the office
 ## Batch trips to the store
+Visiting the store fewer times means encountering fewer people means less chances to get the virus person-to-person.
 ## Wear nitrile gloves
 [According to the CDC](https://www.cdc.gov/coronavirus/2019-ncov/community/home/cleaning-disinfection.html):
 > Wear disposable gloves when cleaning and disinfecting surfaces. Gloves should be discarded after each cleaning. If reusable gloves are used, those gloves should be dedicated for cleaning and disinfection of surfaces for COVID-19 and should not be used for other purposes. Consult the manufacturer’s instructions for cleaning and disinfection products used. Clean hands immediately after gloves are removed.
