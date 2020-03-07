@@ -3,13 +3,13 @@
 
 ## Contents
 - [Wash your hands frequently](#wash-your-hands-frequently)
+- [Obtain a one month food supply](#obtain-a-one-month-food-supply)
 - [Take vitamin D supplements](#take-vitamin-d-supplements)
 - [Make your own hand sanitizer](#make-your-own-hand-sanitizer)
 - [Exercise at home, not at the gym](#exercise-at-home-not-at-the-gym)
 - [Get enough sleep](#get-enough-sleep)
 - [Wrap commonly touched items (door handles, lightswitches, etc...) with copper tape](#wrap-commonly-touched-items-door-handles-lightswitches-etc-with-copper-tape)
 - [Eliminate non-essential airtravel](#eliminate-non-essential-airtravel)
-- [Obtain a one month food supply](#obtain-a-one-month-food-supply)
 - [Work from home instead of going into the office](#work-from-home-instead-of-going-into-the-office)
 - [Batch trips to the store](#batch-trips-to-the-store)
 - [Wear nitrile gloves](#wear-nitrile-gloves)
@@ -24,6 +24,12 @@ Any time you come into the home, before you eat, or after using the restroom:
 * Dry your hands using a clean towel or air dry them.
 
 Sources are [here](https://www.cdc.gov/handwashing/when-how-handwashing.html), [here](https://www.cdc.gov/handwashing/show-me-the-science-handwashing.html), and [here](https://www.cdc.gov/coronavirus/2019-ncov/about/prevention-treatment.html).
+
+## Obtain a one month food supply
+* Obtain staples that will last a while such as rice or beans (and don't forget that fat is a necessary macronutrient)
+* Stick to foods you know if possible to reduce the likelihood of stomach issues
+
+If there transmission rate near you is high, you'll want to be able to avoid person-to-person contact as much as possible. Having your own supplies will help you eliminate the need to visit the restaurents and grocery stores.
 
 ## Take vitamin D supplements
 * Buy vitamin D3 capsules
@@ -55,9 +61,6 @@ Copper seems to have [antimicrobial efficacy](https://en.wikipedia.org/wiki/Anti
 
 ## Eliminate non-essential airtravel
 Airports (and airplanes) put you in close proximity to large number of people and put you in contact with potentially infected surfaces. If you must fly, consider wiping down surfaces (like your seat, the tray table, etc...) with lysol wipes and bringing hand sanitizer in a bottle that is [100ml (3.4 ounces) or less](https://www.tsa.gov/travel/security-screening/liquids-rule) that will be allowed past the security checkout.
-
-## Obtain a one month food supply
-This greatly reduces your need to interact with those outside of your household should you need to be under quarantine for an extended period of time like happened in Wuhan.
 
 ## Work from home instead of going into the office
 This should cut down on person-to-person transmission as well as expose you to fewer potentially infected surfaces. Of course, this assumes you are regularly disinfecting your home work area and the others in your household are also following good hygiene.
