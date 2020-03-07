@@ -1,5 +1,5 @@
 # Coronavirus Risk Reduction Tactics
-*Warning: The maintainer has absolutely no expertise concerning COVID-19, coronaviruses, or viruses in general. He's just a guy who knows git who thought making a list for his friends and family might might be useful. Some of these tactics were originally inspired by [this LessWrong thread](https://www.lesswrong.com/posts/LwcKYR8bykM6vDHyo/coronavirus-justified-practical-advice-thread).*
+*Warning: The maintainer has absolutely no expertise concerning COVID-19, coronaviruses, or viruses in general. He's just a guy who knows git who thought making a list for his friends and family might might be useful. Some of these tactics were originally inspired by [this LessWrong thread](https://www.lesswrong.com/posts/LwcKYR8bykM6vDHyo/coronavirus-justified-practical-advice-thread). Visit [here](https://github.com/jaysonvirissimo/coronavirus-risk-reduction-tactics) to contribute, but go [here](http://virissimo.info/coronavirus-risk-reduction-tactics/README.html) for the most readable copy.*
 
 ## Wash your hands frequently
 Any time you come into the home, before you eat, or after using the restroom:
