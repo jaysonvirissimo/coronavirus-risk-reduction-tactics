@@ -4,6 +4,7 @@
 ## Contents
 - [Wash your hands frequently](#wash-your-hands-frequently)
 - [Obtain a one month food supply](#obtain-a-one-month-food-supply)
+- [Avoid touching your face](#avoid-touching-your-face)
 - [Take vitamin D supplements](#take-vitamin-d-supplements)
 - [Make your own hand sanitizer](#make-your-own-hand-sanitizer)
 - [Exercise at home, not at the gym](#exercise-at-home-not-at-the-gym)
@@ -13,7 +14,6 @@
 - [Work from home instead of going into the office](#work-from-home-instead-of-going-into-the-office)
 - [Batch trips to the store](#batch-trips-to-the-store)
 - [Wear nitrile gloves](#wear-nitrile-gloves)
-- [Avoid touching your face](#avoid-touching-your-face)
 
 ## Wash your hands frequently
 Any time you come into the home, before you eat, or after using the restroom:
@@ -30,6 +30,16 @@ Sources are [here](https://www.cdc.gov/handwashing/when-how-handwashing.html), [
 * Stick to foods you know if possible to reduce the likelihood of stomach issues
 
 If there transmission rate near you is high, you'll want to be able to avoid person-to-person contact as much as possible. Having your own supplies will help you eliminate the need to visit the restaurents and grocery stores.
+
+## Avoid touching your face
+* Keep tissues near by, so you can use those instead of your fingers
+* Identify triggers (for example, if you are rubbing your eyes because they are dry, use eye-drops)
+* Wear a mask to remind yourself not to touch your face
+* Keep your hands busy (a stress ball could work for this)
+
+See [this](https://www.nytimes.com/2020/03/05/health/stop-touching-your-face-coronavirus.html) article from the NYT.
+[According to the CDC](https://www.cdc.gov/coronavirus/2019-ncov/about/prevention-treatment.html):
+> The best way to prevent illness is to avoid being exposed to this virus. However, as a reminder, CDC always recommends everyday preventive actions to help prevent the spread of respiratory diseases, including: Avoid touching your eyes, nose, and mouth...
 
 ## Take vitamin D supplements
 * Buy vitamin D3 capsules
@@ -71,13 +81,3 @@ Visiting the store fewer times means encountering fewer people means less chance
 ## Wear nitrile gloves
 [According to the CDC](https://www.cdc.gov/coronavirus/2019-ncov/community/home/cleaning-disinfection.html):
 > Wear disposable gloves when cleaning and disinfecting surfaces. Gloves should be discarded after each cleaning. If reusable gloves are used, those gloves should be dedicated for cleaning and disinfection of surfaces for COVID-19 and should not be used for other purposes. Consult the manufacturer’s instructions for cleaning and disinfection products used. Clean hands immediately after gloves are removed.
-
-## Avoid touching your face
-* Keep tissues near by, so you can use those instead of your fingers
-* Identidy triggers (for example, if you are rubbing your eyes because they are dry, use eye-drops)
-* Wear a mask to remind yourself not to touch your face
-* Keep your hands busy (a stress ball could work for this)
-
-See [this](https://www.nytimes.com/2020/03/05/health/stop-touching-your-face-coronavirus.html) article from the NYT.
-[According to the CDC](https://www.cdc.gov/coronavirus/2019-ncov/about/prevention-treatment.html):
-> The best way to prevent illness is to avoid being exposed to this virus. However, as a reminder, CDC always recommends everyday preventive actions to help prevent the spread of respiratory diseases, including: Avoid touching your eyes, nose, and mouth...
