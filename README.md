@@ -3,7 +3,7 @@
 
 ## Contents
 - [Wash your hands frequently](#wash-your-hands-frequently)
-- [Obtain a one month food supply](#obtain-a-one-month-food-supply)
+- [Store enough supplies to shelter-in-place for a month](#store-enough-supplies-to-shelter-in-place-for-a-month)
 - [Avoid touching your face](#avoid-touching-your-face)
 - [Wear nitrile gloves when touching public or possibly contaminated surfaces](#wear-nitrile-gloves-when-touching-public-or-possibly-contaminated-surfaces)
 - [Take vitamin D supplements](#take-vitamin-d-supplements)
@@ -25,11 +25,13 @@ Any time you come into the home, before you eat, or after using the restroom:
 
 Sources are [here](https://www.cdc.gov/handwashing/when-how-handwashing.html), [here](https://www.cdc.gov/handwashing/show-me-the-science-handwashing.html), and [here](https://www.cdc.gov/coronavirus/2019-ncov/about/prevention-treatment.html).
 
-## Obtain a one month food supply
+## Store enough supplies to shelter-in-place for a month
 * Obtain staples that will last a while such as rice or beans (and don't forget that fat is a necessary macronutrient)
 * Stick to foods you know if possible to reduce the likelihood of stomach issues
+* Ask your doctor for a larger than normal supply of any any necessary medications (they should be flexible if you explain the reasoning)
+* Stock up on "toilet paper, feminine hygiene products, soap, detergent, and everything else you need to keep your body and your home clean"
 
-If there transmission rate near you is high, you'll want to be able to avoid person-to-person contact as much as possible. Having your own supplies will help you eliminate the need to visit the restaurents and grocery stores.
+If there transmission rate near you is high, you'll want to be able to avoid person-to-person contact as much as possible. Having your own supplies will help you eliminate the need to visit the restaurents and grocery stores. See [here](https://theprepared.com/wuhan-coronavirus/#challenges) for more detailed advice.
 
 ## Avoid touching your face
 * Keep tissues near by, so you can use those instead of your fingers
