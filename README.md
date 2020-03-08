@@ -11,7 +11,7 @@
 - [Exercise at home, not at the gym](#exercise-at-home-not-at-the-gym)
 - [Get enough sleep](#get-enough-sleep)
 - [Wrap commonly touched items (door handles, lightswitches, etc...) with copper tape](#wrap-commonly-touched-items-door-handles-lightswitches-etc-with-copper-tape)
-- [Eliminate non-essential airtravel](#eliminate-non-essential-airtravel)
+- [Use less dense forms of travel](#use-less-dense-forms-of-travel)
 - [Work from home instead of going into the office](#work-from-home-instead-of-going-into-the-office)
 - [Batch trips to the store](#batch-trips-to-the-store)
 
@@ -71,8 +71,12 @@ Getting good sleep [seems to](https://www.webmd.com/sleep-disorders/features/imm
 ## Wrap commonly touched items (door handles, lightswitches, etc...) with copper tape
 Copper seems to have [antimicrobial efficacy](https://en.wikipedia.org/wiki/Antimicrobial_properties_of_copper#Antimicrobial_efficacy_of_copper_alloy_touch_surfaces), so covering surfaces with it may help sanitize infected surfaces.
 
-## Eliminate non-essential airtravel
-Airports (and airplanes) put you in close proximity to large number of people and put you in contact with potentially infected surfaces. If you must fly, consider wiping down surfaces (like your seat, the tray table, etc...) with lysol wipes and bringing hand sanitizer in a bottle that is [100ml (3.4 ounces) or less](https://www.tsa.gov/travel/security-screening/liquids-rule) that will be allowed past the security checkout.
+## Use less dense forms of travel
+* Prefer driving or biking yourself to taking an Uber, bus, or train
+* Avoid airtravel if possible, but if you do fly:
+  * Wear nitrile gloves and a respirator or N95 mask
+  * Wipe down any surfaces (seat, tray table, etc...) with lysol wipes before you touch them 
+  * Bring hand sanitizer in a bottle that is [100ml (3.4 ounces) or less](https://www.tsa.gov/travel/security-screening/liquids-rule) and use it regularly
 
 ## Work from home instead of going into the office
 This should cut down on person-to-person transmission as well as expose you to fewer potentially infected surfaces. Of course, this assumes you are regularly disinfecting your home work area and the others in your household are also following good hygiene.
