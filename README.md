@@ -5,6 +5,7 @@
 - [Wash your hands frequently](#wash-your-hands-frequently)
 - [Obtain a one month food supply](#obtain-a-one-month-food-supply)
 - [Avoid touching your face](#avoid-touching-your-face)
+- [Wear nitrile gloves when touching public or possibly contaminated surfaces](#wear-nitrile-gloves-when-touching-public-or-possibly-contaminated-surfaces)
 - [Take vitamin D supplements](#take-vitamin-d-supplements)
 - [Make your own hand sanitizer](#make-your-own-hand-sanitizer)
 - [Exercise at home, not at the gym](#exercise-at-home-not-at-the-gym)
@@ -13,7 +14,6 @@
 - [Eliminate non-essential airtravel](#eliminate-non-essential-airtravel)
 - [Work from home instead of going into the office](#work-from-home-instead-of-going-into-the-office)
 - [Batch trips to the store](#batch-trips-to-the-store)
-- [Wear nitrile gloves](#wear-nitrile-gloves)
 
 ## Wash your hands frequently
 Any time you come into the home, before you eat, or after using the restroom:
