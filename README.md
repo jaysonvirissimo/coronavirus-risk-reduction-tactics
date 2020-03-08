@@ -78,6 +78,6 @@ This should cut down on person-to-person transmission as well as expose you to f
 ## Batch trips to the store
 Visiting the store fewer times means encountering fewer people means less chances to get the virus person-to-person.
 
-## Wear nitrile gloves
+## Wear nitrile gloves when touching public or possibly contaminated surfaces
 [According to the CDC](https://www.cdc.gov/coronavirus/2019-ncov/community/home/cleaning-disinfection.html):
 > Wear disposable gloves when cleaning and disinfecting surfaces. Gloves should be discarded after each cleaning. If reusable gloves are used, those gloves should be dedicated for cleaning and disinfection of surfaces for COVID-19 and should not be used for other purposes. Consult the manufacturer’s instructions for cleaning and disinfection products used. Clean hands immediately after gloves are removed.
