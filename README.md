@@ -13,7 +13,7 @@
 - [Use less dense forms of travel](#use-less-dense-forms-of-travel)
 - [Work from home instead of going into the office](#work-from-home-instead-of-going-into-the-office)
 - [Batch trips to the store](#batch-trips-to-the-store)
-- [Wrap commonly touched items (door handles, lightswitches, etc...) with copper tape](#wrap-commonly-touched-items-door-handles-lightswitches-etc-with-copper-tape)
+- [Wrap commonly touched items with copper tape](#wrap-commonly-touched-items-with-copper-tape)
 
 ## Wash your hands frequently
 Any time you come into the home, before you eat, or after using the restroom:
@@ -85,5 +85,8 @@ This should cut down on person-to-person transmission as well as expose you to f
 ## Batch trips to the store
 Visiting the store fewer times means encountering fewer people means less chances to get the virus person-to-person.
 
-## Wrap commonly touched items (door handles, lightswitches, etc...) with copper tape
+## Wrap commonly touched items with copper tape
+* Obtain [copper tape](https://www.amazon.com/Zehhe-Copper-Foil-Double-Sided-Conductive/dp/B06Y48J5R7/ref=sr_1_3?keywords=copper%2Btape&qid=1583809652&sr=8-3&th=1)
+* Cover any items that are touched very frequently such as lightswitches, door handles, etc...
+
 Copper seems to have [antimicrobial efficacy](https://en.wikipedia.org/wiki/Antimicrobial_properties_of_copper#Antimicrobial_efficacy_of_copper_alloy_touch_surfaces), so covering surfaces with it may help sanitize infected surfaces.
