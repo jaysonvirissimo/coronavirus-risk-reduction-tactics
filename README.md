@@ -8,6 +8,7 @@
 - [Wear nitrile gloves when touching public or possibly contaminated surfaces](#wear-nitrile-gloves-when-touching-public-or-possibly-contaminated-surfaces)
 - [Take vitamin D supplements](#take-vitamin-d-supplements)
 - [Make your own hand sanitizer](#make-your-own-hand-sanitizer)
+- [Wear a mask while in crowded areas](#wear-a-mask-while-in-crowded-areas)
 - [Exercise at home, not at the gym](#exercise-at-home-not-at-the-gym)
 - [Get enough sleep](#get-enough-sleep)
 - [Use less dense forms of travel](#use-less-dense-forms-of-travel)
@@ -61,6 +62,13 @@ Supplementing with vitamin D seems to significantly lower your risk of all kinds
 * Add distilled water until the total amount of liquid is 10L
 
 See [here](https://www.who.int/gpsc/5may/Guide_to_Local_Production.pdf) for a more thorough guide from the WHO.
+
+## Wear a mask while in crowded areas
+* Obtain a respirator or N95 mask (and any necessary consumables like extra filters)
+* A surgeon's mask is far inferior, but better than nothing since it can still protect others if _you_ are infected
+* Make sure you know how to wear it properly or it won't do much good ([N95](https://www.youtube.com/watch?v=bo-PEzHE7iw), [respirator](https://www.youtube.com/watch?v=yBg2B2BP9nA))
+
+See [here](https://www.ncbi.nlm.nih.gov/pubmed/19193267) for research on the use of masks to slow virus transmission.
 
 ## Exercise at home, not at the gym
 It [seems to spread](https://www.cdc.gov/coronavirus/2019-ncov/about/transmission.html) person-to-person and from contact with infected surfaces or objects. Gyms seem to put you are risk for both transmission modes.
