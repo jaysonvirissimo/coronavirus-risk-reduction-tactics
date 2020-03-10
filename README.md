@@ -10,10 +10,10 @@
 - [Make your own hand sanitizer](#make-your-own-hand-sanitizer)
 - [Exercise at home, not at the gym](#exercise-at-home-not-at-the-gym)
 - [Get enough sleep](#get-enough-sleep)
-- [Wrap commonly touched items (door handles, lightswitches, etc...) with copper tape](#wrap-commonly-touched-items-door-handles-lightswitches-etc-with-copper-tape)
 - [Use less dense forms of travel](#use-less-dense-forms-of-travel)
 - [Work from home instead of going into the office](#work-from-home-instead-of-going-into-the-office)
 - [Batch trips to the store](#batch-trips-to-the-store)
+- [Wrap commonly touched items (door handles, lightswitches, etc...) with copper tape](#wrap-commonly-touched-items-door-handles-lightswitches-etc-with-copper-tape)
 
 ## Wash your hands frequently
 Any time you come into the home, before you eat, or after using the restroom:
@@ -72,9 +72,6 @@ It [seems to spread](https://www.cdc.gov/coronavirus/2019-ncov/about/transmissio
 
 Getting good sleep [seems to](https://www.webmd.com/sleep-disorders/features/immune-system-lack-of-sleep#1) reduce the likelihood of catching the cold. By analogy, it may also do so for the coronavirus.
 
-## Wrap commonly touched items (door handles, lightswitches, etc...) with copper tape
-Copper seems to have [antimicrobial efficacy](https://en.wikipedia.org/wiki/Antimicrobial_properties_of_copper#Antimicrobial_efficacy_of_copper_alloy_touch_surfaces), so covering surfaces with it may help sanitize infected surfaces.
-
 ## Use less dense forms of travel
 * Prefer driving or biking yourself to taking an Uber, bus, or train
 * Avoid airtravel if possible, but if you do fly:
@@ -87,3 +84,6 @@ This should cut down on person-to-person transmission as well as expose you to f
 
 ## Batch trips to the store
 Visiting the store fewer times means encountering fewer people means less chances to get the virus person-to-person.
+
+## Wrap commonly touched items (door handles, lightswitches, etc...) with copper tape
+Copper seems to have [antimicrobial efficacy](https://en.wikipedia.org/wiki/Antimicrobial_properties_of_copper#Antimicrobial_efficacy_of_copper_alloy_touch_surfaces), so covering surfaces with it may help sanitize infected surfaces.
